@@ -5,6 +5,6 @@ duan90@purdue.edu
 
 
 ## Files
-`ece695gm-project-lossy-vae-zhihao.pdf`: pdf of my slides
+`ece695gm-project-lossy-vae-zhihao.pdf`: pdf of my slides \
 `mnist.py`: a toy example on MNIST
 
